@@ -8,5 +8,7 @@ The goal of this repository is to document my journey through different opportun
 ## Structure
 The repository is organized into folders, each named after the company for which the challenge was completed:
 
+- `Autodoc/`: Challenge for Autodoc
 - `Bolt/`: Challenge for Bolt
 - `Wise/`: Challenge for Wise
+
