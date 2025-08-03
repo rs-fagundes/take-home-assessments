@@ -25,9 +25,3 @@ Tasks included:
 - Most users start on listing pages; large drop-offs after product views.
 - Add-to-cart to order conversion is steady but low.
 - Detected tracking anomalies (orders without page views).
-
----
-
-## About Me
-**Rafael Fagundes**  
-[LinkedIn](https://www.linkedin.com/in/rsfagundes/) | [Portfolio](https://rsfagundes.com/)
