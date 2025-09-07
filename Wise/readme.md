@@ -35,7 +35,3 @@ The assessment required reviewing business data, identifying key drivers of perf
 - **Excel / Google Sheets** → supporting calculations and exploratory analysis  
 
 ---
-
-## 👤 Author
-**Rafael Sanches Fagundes**  
-[LinkedIn](https://www.linkedin.com/in/rsfagundes) • [GitHub](https://github.com/rs-fagundes)
