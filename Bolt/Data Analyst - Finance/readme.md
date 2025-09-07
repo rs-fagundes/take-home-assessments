@@ -1,27 +1,35 @@
-# Autodoc – Data Analyst Take-Home Assessment
+# Bolt – Data Analyst (Finance) Take-Home Assessment
 
-## Overview
-This repository contains my submission for the **Data Analyst position at Autodoc**, focusing on analyzing user navigation data, funnel metrics, and business insights.
-
-Tasks included:
-- EDA and funnel visualization (**Python**)
-- Funnel metrics extraction (**SQL**)
-- Interactive dashboard (**Power BI**)
+##  Overview
+This repository showcases my submission for the **Data Analyst** (Finance) position at **Bolt**. The exercise focuses on financial data analysis, performance trends, forecasting, and delivering actionable insights to guide strategic financial decisions.
 
 ---
 
-## 📊 Dashboard Link
-👉 [**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODQ2M2Y1ZTQtZTdkMy00MGM1LWFkZDYtZTc2Zjc2YTliZDQxIiwidCI6IjJmM2M4M2YyLWQwMDUtNDhiOS04MzU5LTM3NzgzNTFhZDA5NSIsImMiOjl9)
+##  Tasks Included
+- **Exploratory Financial Analysis (EFA)** – uncovering trends, anomalies, and key drivers  
+- **Revenue & Expense Breakdown** – segmenting costs and income by business unit or geography  
+- **Forecasting & Scenario Modeling** – financial projections under different assumptions  
+- **Dashboarding & Visualization** – clear visuals to communicate financial performance  
 
 ---
 
-## Repository Files
-- 📓 [Python Notebook](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.ipynb)
-- 🗄️ [SQL Script](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.sql)
+##  Repository Files
+- **📄 [Bolt – Rafael Fagundes – Data Analyst.pdf](Bolt%20-%20Rafael%20Fagundes%20-%20Data%20Analyst.pdf)** → Full report containing detailed analysis, findings, and recommendations.
 
 ---
 
-## Key Insights
-- Most users start on listing pages; large drop-offs after product views.
-- Add-to-cart to order conversion is steady but low.
-- Detected tracking anomalies (orders without page views).
+##  Key Insights
+- Identified **peak revenue periods** and linked declines to specific expense surges  
+- Quantified **cost drivers** impacting profitability, highlighting areas for optimization  
+- Scenario modeling showed potential gains from **pricing adjustments** or **cost restructuring**  
+- Recommended **financial KPI dashboard**: monthly revenue, burn rate, forecast variance, margin trends  
+
+---
+
+##  Tools & Technologies
+- **SQL** – data querying and aggregation for financial metrics  
+- **Python** *(Pandas, NumPy, Matplotlib, Seaborn)* – data cleaning, exploration, and forecasting workflows  
+- **Excel / Google Sheets** – financial modeling and scenario analysis  
+- **Power BI / Tableau** – visualization and dashboard prototyping for stakeholders  
+
+---
