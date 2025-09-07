@@ -1,27 +1,41 @@
-# Autodoc – Data Analyst Take-Home Assessment
+# Wise – Business Intelligence Lead Take-Home Assessment
 
-## Overview
-This repository contains my submission for the **Data Analyst position at Autodoc**, focusing on analyzing user navigation data, funnel metrics, and business insights.
+## 📌 Overview
+This repository contains my submission for the **Business Intelligence Lead** position at **Wise**, focusing on business performance analysis, KPIs, and actionable insights to support strategic decision-making.
 
-Tasks included:
-- EDA and funnel visualization (**Python**)
-- Funnel metrics extraction (**SQL**)
-- Interactive dashboard (**Power BI**)
+The assessment required reviewing business data, identifying key drivers of performance, and proposing data-driven recommendations to improve customer experience and operational efficiency.
 
 ---
 
-## 📊 Dashboard Link
-👉 [**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODQ2M2Y1ZTQtZTdkMy00MGM1LWFkZDYtZTc2Zjc2YTliZDQxIiwidCI6IjJmM2M4M2YyLWQwMDUtNDhiOS04MzU5LTM3NzgzNTFhZDA5NSIsImMiOjl9)
+## 🛠️ Tasks Included
+- **Exploratory Data Analysis (EDA)** – identification of trends, patterns, and anomalies  
+- **KPI Framework Definition** – establishing key metrics to monitor business performance  
+- **Insights & Recommendations** – proposing strategies to improve revenue, customer retention, and product adoption  
+- **Visualization & Reporting** – building clear, concise summaries for stakeholders  
 
 ---
 
-## Repository Files
-- 📓 [Python Notebook](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.ipynb)
-- 🗄️ [SQL Script](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.sql)
+## 📄 Repository Files
+- **📑 [Wise – Rafael Fagundes – Business Intelligence Lead.pdf](Wise%20-%20Rafael%20Fagundes%20-%20Business%20Intelligence%20Lead.pdf)** → Full take-home submission with analysis and recommendations
 
 ---
 
-## Key Insights
-- Most users start on listing pages; large drop-offs after product views.
-- Add-to-cart to order conversion is steady but low.
-- Detected tracking anomalies (orders without page views).
+## 🔑 Key Insights
+- Identified significant differences in customer behavior between regions, impacting conversion and retention  
+- Highlighted top drivers of **cross-border transaction performance** and their effect on revenue growth  
+- Proposed **dashboard KPIs** to track payment efficiency, costs, and customer engagement  
+- Recommended **data quality improvements** to ensure accurate reporting and forecasting  
+
+---
+
+## 🧩 Tools & Technologies
+- **SQL** → for data extraction and KPI calculations  
+- **Python** *(Pandas, Matplotlib, Seaborn)* → for data analysis and visualization  
+- **Power BI / Tableau** → for BI dashboard design and insights presentation  
+- **Excel / Google Sheets** → supporting calculations and exploratory analysis  
+
+---
+
+## 👤 Author
+**Rafael Sanches Fagundes**  
+[LinkedIn](https://www.linkedin.com/in/rsfagundes) • [GitHub](https://github.com/rs-fagundes)
