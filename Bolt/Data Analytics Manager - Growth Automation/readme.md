@@ -1,27 +1,35 @@
-# Autodoc – Data Analyst Take-Home Assessment
+# Bolt – Data Analytics Manager, Growth Automation (Platform & BI) Take-Home Assessment
 
-## Overview
-This repository contains my submission for the **Data Analyst position at Autodoc**, focusing on analyzing user navigation data, funnel metrics, and business insights.
-
-Tasks included:
-- EDA and funnel visualization (**Python**)
-- Funnel metrics extraction (**SQL**)
-- Interactive dashboard (**Power BI**)
+##  Overview
+This repository contains my submission for the **Data Analytics Manager, Growth Automation (Platform & BI)** position at **Bolt**. The assignment focuses on analyzing growth automation processes across platforms, identifying efficiencies and bottlenecks, and delivering BI-driven recommendations to optimize user growth and product performance.
 
 ---
 
-## 📊 Dashboard Link
-👉 [**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODQ2M2Y1ZTQtZTdkMy00MGM1LWFkZDYtZTc2Zjc2YTliZDQxIiwidCI6IjJmM2M4M2YyLWQwMDUtNDhiOS04MzU5LTM3NzgzNTFhZDA5NSIsImMiOjl9)
+##  Tasks Included
+- **Exploratory Data Analysis (EDA)** – deep dive into data to identify growth patterns, anomalies, and automation performance  
+- **Growth Funnel Analysis** – mapping user journey stages and identifying areas with high drop-off or friction  
+- **Key Metric Definition** – defining and measuring automation-specific KPIs (e.g., activation rate, conversion velocity, automation yield)  
+- **BI Dashboard Conceptualization** – designing dashboards and reporting structures to monitor growth automation health  
 
 ---
 
-## Repository Files
-- 📓 [Python Notebook](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.ipynb)
-- 🗄️ [SQL Script](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.sql)
+##  Repository Files
+- **📄 [Homework for Data Analytics Manager, Growth Automation (Platform and BI).pdf](Homework%20for%20Data%20Analytics%20Manager%2C%20Growth%20Automation%20%28Platform%20and%20BI%29.pdf)** → The complete submission report detailing analysis methodology, findings, visualizations, and strategic recommendations.
 
 ---
 
-## Key Insights
-- Most users start on listing pages; large drop-offs after product views.
-- Add-to-cart to order conversion is steady but low.
-- Detected tracking anomalies (orders without page views).
+##  Key Insights
+- Identified **critical drop-off points** in the automation pipeline that reduce overall activation and conversion efficiency.  
+- Highlighted **variations across platforms** (e.g. mobile vs. web) in performance and user engagement.  
+- Introduced a refined suite of **automation-specific metrics**—such as conversion velocity and automation success rate—to accurately measure impact.  
+- Designed a **BI dashboard framework** to provide real-time monitoring, trend spotting, and performance comparison across platforms.
+
+---
+
+##  Tools & Technologies
+- **SQL** – querying and aggregating platform and user event data  
+- **Python** *(Pandas, NumPy, Matplotlib, Seaborn)* – data exploration, transformation, and visual analysis  
+- **Excel / Google Sheets** – prototype KPI tracking and metric calculations  
+- **Power BI / Tableau** – dashboard design concepts and mock-ups for stakeholders  
+
+---
