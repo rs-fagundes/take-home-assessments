@@ -1,35 +1,31 @@
-# Bolt – Data Analyst (Finance) Take-Home Assessment
+# Bolt – Data Analyst Case Study
 
-##  Overview
-This repository showcases my submission for the **Data Analyst** (Finance) position at **Bolt**. The exercise focuses on financial data analysis, performance trends, forecasting, and delivering actionable insights to guide strategic financial decisions.
-
----
-
-##  Tasks Included
-- **Exploratory Financial Analysis (EFA)** – uncovering trends, anomalies, and key drivers  
-- **Revenue & Expense Breakdown** – segmenting costs and income by business unit or geography  
-- **Forecasting & Scenario Modeling** – financial projections under different assumptions  
-- **Dashboarding & Visualization** – clear visuals to communicate financial performance  
+## About the Role
+Bolt is one of Europe’s leading mobility platforms, providing ride-hailing, micromobility, delivery, and financial services.  
+The **Data Analyst** role focuses on enabling data-driven decisions across operations, finance, and growth by building dashboards, automating processes, and extracting actionable insights from large-scale data.  
 
 ---
 
-##  Repository Files
-- **📄 [Bolt – Rafael Fagundes – Data Analyst.pdf](Bolt%20-%20Rafael%20Fagundes%20-%20Data%20Analyst.pdf)** → Full report containing detailed analysis, findings, and recommendations.
+## Homework Exercise
+As part of the application process, I completed a case study divided into three parts:
 
----
+1. **Spreadsheet Formulas & Formatting (Google Sheets)**  
+   - Validated and applied correct formulas for key metrics: Rides, GMV, ASP, Commission %, Net Rate %, EBITDA, and EBITDA % of GMV.  
+   - Corrected inconsistencies (e.g., misspelling of “Commission”, percentage formats).  
+   - Created a “Country to Region Map” to enable regional grouping and applied conditional formatting for better visualization.  
+   - [Spreadsheet here](https://docs.google.com/spreadsheets/d/15U8vTXwlxqysytAGqDIl2OE52IafyWpJhH5PfTem-iU/edit?usp=sharing).  
 
-##  Key Insights
-- Identified **peak revenue periods** and linked declines to specific expense surges  
-- Quantified **cost drivers** impacting profitability, highlighting areas for optimization  
-- Scenario modeling showed potential gains from **pricing adjustments** or **cost restructuring**  
-- Recommended **financial KPI dashboard**: monthly revenue, burn rate, forecast variance, margin trends  
+2. **Apps Script Automation**  
+   - Replicated and pre-filled a “Regional Review File” template.  
+   - Exported one file per region (North, West, Center, South, Rest) with irrelevant rows removed.  
+   - Managed formatting limitations inherent to Google Apps Script.  
+   - [Regional files folder](https://drive.google.com/drive/folders/17p6MVaKwG6HZUfI4iBVM6h_0iZ7elnxX?usp=sharing).  
 
----
-
-##  Tools & Technologies
-- **SQL** – data querying and aggregation for financial metrics  
-- **Python** *(Pandas, NumPy, Matplotlib, Seaborn)* – data cleaning, exploration, and forecasting workflows  
-- **Excel / Google Sheets** – financial modeling and scenario analysis  
-- **Power BI / Tableau** – visualization and dashboard prototyping for stakeholders  
-
----
+3. **Market Analysis Report (Python)**  
+   - Analyzed ride-level data (DataRides) to calculate key KPIs: rides, GMV, ASP, EBITDA, revenue per ride, average distance/duration.  
+   - Found that most revenue is concentrated in the morning peak (7–11am) and on Saturdays.  
+   - Highlighted opportunities to:  
+     - Focus marketing on morning commuters.  
+     - Optimize driver supply for mornings and weekends.  
+     - Explore strategies to increase off-peak usage.  
+     - Refine pricing during peak hours.  
