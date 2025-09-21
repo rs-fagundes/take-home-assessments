@@ -1,7 +1,7 @@
 # Lingokids – Senior CRM Specialist Case Study
 
 ## About the Role
-Lingokids is a global leader in educational technology, helping over 160M families raise amazing kids through Playlearning™:contentReference[oaicite:0]{index=0}.  
+Lingokids is a global leader in educational technology, helping over 160M families raise amazing kids through Playlearning™.  
 The **Senior CRM Specialist** role sits in the Customer Experience team and focuses on:  
 - Designing and optimizing CRM campaigns in **Braze** (email, push, in-app).  
 - Segmenting users and building journeys to increase conversion from free to paid.  
@@ -18,7 +18,7 @@ As part of the process, I prepared a **14-day CRM strategy** aimed at improving 
 
 2. **Business Goal & Impact**  
    - Objective: increase conversion within 14 days post-install.  
-   - Expected uplift: **+10% conversion**, equating to an estimated **$300K–$450K/month in additional revenue**:contentReference[oaicite:1]{index=1}.  
+   - Expected uplift: **+10% conversion**, equating to an estimated **$300K–$450K/month in additional revenue**.  
 
 3. **Segmentation**  
    - Defined and validated Braze events (e.g., `onboarding_started`, `activity_completed`).  
