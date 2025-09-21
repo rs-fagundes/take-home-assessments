@@ -1,7 +1,7 @@
 # Bolt – Growth Analytics Manager Case Study
 
 ## About the Role
-Bolt is looking for a **Growth Analytics Manager** to optimize and scale its growth strategy across 50+ countries:contentReference[oaicite:0]{index=0}.  
+Bolt is looking for a **Growth Analytics Manager** to optimize and scale its growth strategy across 50+ countries.  
 The role focuses on:  
 - Managing the global incentives budget and ensuring ROI.  
 - Developing long-term growth and localization strategies.  
