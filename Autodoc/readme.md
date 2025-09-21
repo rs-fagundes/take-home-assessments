@@ -2,7 +2,7 @@
 
 ## About the Role
 Autodoc is the largest and fastest-growing auto parts e-commerce platform in Europe, with operations in 27 countries and over €1.3B in revenue.  
-The **Senior Data Analyst** role focuses on delivering advanced data solutions to support decision-making, building dashboards, analyzing user behavior, and driving performance improvements across the funnel:contentReference[oaicite:0]{index=0}.
+The **Senior Data Analyst** role focuses on delivering advanced data solutions to support decision-making, building dashboards, analyzing user behavior, and driving performance improvements across the funnel.
 
 ---
 
@@ -26,4 +26,4 @@ As part of the application process, I completed a case study in two parts:
 - `Autodoc - Rafael Fagundes - Data Analyst.pdf` – Written report  
 - `autodoc_assessment.ipynb` – Python notebook (EDA, funnel visualization, anomaly detection)  
 - `autodoc_assessment.sql` – SQL queries for funnel metrics and validation  
-- Power BI Dashboard – [View here]([https://drive.google.com/file/d/1Lq0gciaP9lXPBs7mgJ33YOz0IM6kz4nS/view?usp=drive_link](https://app.powerbi.com/view?r=eyJrIjoiODQ2M2Y1ZTQtZTdkMy00MGM1LWFkZDYtZTc2Zjc2YTliZDQxIiwidCI6IjJmM2M4M2YyLWQwMDUtNDhiOS04MzU5LTM3NzgzNTFhZDA5NSIsImMiOjl9))
+- Power BI Dashboard – [View here](https://app.powerbi.com/view?r=eyJrIjoiODQ2M2Y1ZTQtZTdkMy00MGM1LWFkZDYtZTc2Zjc2YTliZDQxIiwidCI6IjJmM2M4M2YyLWQwMDUtNDhiOS04MzU5LTM3NzgzNTFhZDA5NSIsImMiOjl9)
