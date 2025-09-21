@@ -1,35 +1,33 @@
-# Bolt – Data Analytics Manager, Growth Automation (Platform & BI) Take-Home Assessment
+# Bolt – Growth Analytics Manager Case Study
 
-##  Overview
-This repository contains my submission for the **Data Analytics Manager, Growth Automation (Platform & BI)** position at **Bolt**. The assignment focuses on analyzing growth automation processes across platforms, identifying efficiencies and bottlenecks, and delivering BI-driven recommendations to optimize user growth and product performance.
-
----
-
-##  Tasks Included
-- **Exploratory Data Analysis (EDA)** – deep dive into data to identify growth patterns, anomalies, and automation performance  
-- **Growth Funnel Analysis** – mapping user journey stages and identifying areas with high drop-off or friction  
-- **Key Metric Definition** – defining and measuring automation-specific KPIs (e.g., activation rate, conversion velocity, automation yield)  
-- **BI Dashboard Conceptualization** – designing dashboards and reporting structures to monitor growth automation health  
+## About the Role
+Bolt is looking for a **Growth Analytics Manager** to optimize and scale its growth strategy across 50+ countries:contentReference[oaicite:0]{index=0}.  
+The role focuses on:  
+- Managing the global incentives budget and ensuring ROI.  
+- Developing long-term growth and localization strategies.  
+- Leading and mentoring a team of analysts.  
+- Driving reporting, insights, and process optimization for growth campaigns.  
+- Partnering with leadership and regional teams to improve efficiency and marketplace performance.  
 
 ---
 
-##  Repository Files
-- **📄 [Homework for Data Analytics Manager, Growth Automation (Platform and BI).pdf](Homework%20for%20Data%20Analytics%20Manager%2C%20Growth%20Automation%20%28Platform%20and%20BI%29.pdf)** → The complete submission report detailing analysis methodology, findings, visualizations, and strategic recommendations.
+## Homework Exercise
+As part of the application process, I delivered a case study in two parts:  
 
----
+### 1. Peak Hour Problem (Supply & Demand Analysis)  
+- Analyzed demand-supply gaps across different hours of the day.  
+- Identified critical undersupply periods (early mornings, morning commutes, evening peaks).  
+- Calculated additional online driver hours needed to reach 100% coverage.  
+- Modeled guaranteed earnings and compensation required to attract drivers during peak hours.  
+- Recommended targeted incentives and bonus schemes to reduce missed demand and improve rider satisfaction.  
 
-##  Key Insights
-- Identified **critical drop-off points** in the automation pipeline that reduce overall activation and conversion efficiency.  
-- Highlighted **variations across platforms** (e.g. mobile vs. web) in performance and user engagement.  
-- Introduced a refined suite of **automation-specific metrics**—such as conversion velocity and automation success rate—to accurately measure impact.  
-- Designed a **BI dashboard framework** to provide real-time monitoring, trend spotting, and performance comparison across platforms.
-
----
-
-##  Tools & Technologies
-- **SQL** – querying and aggregating platform and user event data  
-- **Python** *(Pandas, NumPy, Matplotlib, Seaborn)* – data exploration, transformation, and visual analysis  
-- **Excel / Google Sheets** – prototype KPI tracking and metric calculations  
-- **Power BI / Tableau** – dashboard design concepts and mock-ups for stakeholders  
-
----
+### 2. Scaling Growth Analytics (Operational Support & Automation)  
+- Highlighted that Bolt operates in 600 cities but campaigns were manually managed in only 100.  
+- Proposed a **Campaign Management Platform** to automate rider discounts and driver bonuses at scale.  
+- Key features:  
+  - Dynamic incentives and templates.  
+  - Real-time data integration and dashboards.  
+  - Fraud prevention mechanisms.  
+  - Local market adaptation and compliance.  
+- Defined success metrics: campaign ROI, rider engagement, driver activity, demand-supply improvements, and market share growth.  
+- Outlined next steps: pilot in 50 cities, collect feedback, progressively roll out, and continuously optimize.  
