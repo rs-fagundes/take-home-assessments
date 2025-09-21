@@ -1,37 +1,31 @@
-# Wise – Business Intelligence Lead Take-Home Assessment
+# Wise – Business Intelligence Lead Case Study
 
-## 📌 Overview
-This repository contains my submission for the **Business Intelligence Lead** position at **Wise**, focusing on business performance analysis, KPIs, and actionable insights to support strategic decision-making.
-
-The assessment required reviewing business data, identifying key drivers of performance, and proposing data-driven recommendations to improve customer experience and operational efficiency.
-
----
-
-## 🛠️ Tasks Included
-- **Exploratory Data Analysis (EDA)** – identification of trends, patterns, and anomalies  
-- **KPI Framework Definition** – establishing key metrics to monitor business performance  
-- **Insights & Recommendations** – proposing strategies to improve revenue, customer retention, and product adoption  
-- **Visualization & Reporting** – building clear, concise summaries for stakeholders  
+## About the Role
+Wise is hiring a **Business Intelligence Lead** to drive insights and performance improvements across Payment Operations.  
+The role focuses on:  
+- Delivering monthly and quarterly performance reporting (MI Packs).  
+- Analyzing global and regional payment operations to uncover trends, SLA performance, and escalation drivers.  
+- Providing actionable recommendations to improve efficiency and customer experience.  
+- Leading with data by building scalable solutions and clear insights for stakeholders.  
 
 ---
 
-## 📄 Repository Files
-- **📑 [Wise – Rafael Fagundes – Business Intelligence Lead.pdf](Wise%20-%20Rafael%20Fagundes%20-%20Business%20Intelligence%20Lead.pdf)** → Full take-home submission with analysis and recommendations
+## Homework Exercise
+As part of the process, I delivered a case study with two components:
 
----
+### 1. Payment Operations Performance & Insights Report (MI Pack)
+- Reviewed six months of data from Global Payments Processing and Regional Payment Operations.  
+- Key insights:  
+  - **Wait Time Buckets:** Global Linking consistently outperformed Global DU; DU faced delays in 24h–48h buckets.  
+  - **Escalations:** September showed critical spikes; DU escalations grew fivefold compared to Q2.  
+  - **Regional Performance:** NorthAm and JPYKRW led in efficiency; Europe Ops and GBP underperformed.  
+- Recommendations:  
+  - Apply Global Linking best practices to DU to improve 1h and 4h buckets.  
+  - Investigate and resolve root causes of September escalation peaks.  
+  - Address inefficiencies in Europe Ops and GBP with targeted workflow improvements.  
+  - Scale NorthAm/JPYKRW successes to other regions.  
 
-## 🔑 Key Insights
-- Identified significant differences in customer behavior between regions, impacting conversion and retention  
-- Highlighted top drivers of **cross-border transaction performance** and their effect on revenue growth  
-- Proposed **dashboard KPIs** to track payment efficiency, costs, and customer engagement  
-- Recommended **data quality improvements** to ensure accurate reporting and forecasting  
-
----
-
-## 🧩 Tools & Technologies
-- **SQL** → for data extraction and KPI calculations  
-- **Python** *(Pandas, Matplotlib, Seaborn)* → for data analysis and visualization  
-- **Power BI / Tableau** → for BI dashboard design and insights presentation  
-- **Excel / Google Sheets** → supporting calculations and exploratory analysis  
-
----
+### 2. SQL Query Task
+- Designed a schema with **user_locations**, **transactions**, and **currency_rates** tables.  
+- Wrote a query to calculate the top 5 countries by cross-currency transaction volume in GBP equivalent for 2020.  
+- Query includes filtering for cross-currency transactions, year selection, and aggregation with conversion rates.  
