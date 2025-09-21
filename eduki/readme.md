@@ -1,27 +1,23 @@
-# Autodoc – Data Analyst Take-Home Assessment
+# Eduki – Senior Marketing Analyst Case Study
 
-## Overview
-This repository contains my submission for the **Data Analyst position at Autodoc**, focusing on analyzing user navigation data, funnel metrics, and business insights.
-
-Tasks included:
-- EDA and funnel visualization (**Python**)
-- Funnel metrics extraction (**SQL**)
-- Interactive dashboard (**Power BI**)
+## About the Role
+Eduki is hiring a **Senior Growth Marketing Analyst** to help transform the company into a data-driven marketing organization.  
+The role focuses on cross-channel performance analysis (Paid Search, Paid Social, SEO, CRM, Organic, Direct), funnel and retention insights, campaign optimization, attribution, and data-driven decision-making.  
 
 ---
 
-## 📊 Dashboard Link
-👉 [**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODQ2M2Y1ZTQtZTdkMy00MGM1LWFkZDYtZTc2Zjc2YTliZDQxIiwidCI6IjJmM2M4M2YyLWQwMDUtNDhiOS04MzU5LTM3NzgzNTFhZDA5NSIsImMiOjl9)
+## Homework Exercise
+As part of the process, I completed a case study with three main tasks:
 
----
+1. **Revenue Contribution by First-Touch Channel**  
+   - Calculated revenue share per traffic source.  
+   - Found that Paid Search (17.9%), Direct (17.1%), and Email (17.0%) are the top contributors at the start of the funnel.  
 
-## Repository Files
-- 📓 [Python Notebook](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.ipynb)
-- 🗄️ [SQL Script](https://github.com/rs-fagundes/take-home-assessments/blob/main/Autodoc/autodoc_assessment.sql)
+2. **Repeat Purchases Within 30 Days**  
+   - Identified that 18.5% of customers made a second purchase within 30 days.  
+   - Highlighted retention opportunities through post-purchase and cross-sell campaigns.  
 
----
-
-## Key Insights
-- Most users start on listing pages; large drop-offs after product views.
-- Add-to-cart to order conversion is steady but low.
-- Detected tracking anomalies (orders without page views).
+3. **Campaign Performance by ROAS**  
+   - Evaluated campaigns by advertising efficiency.  
+   - Newsletter (ROAS 0.69) and Google Ads Black Friday (ROAS 0.67) underperformed.  
+   - Spring Sale (ROAS 2.72) and Instagram Summer Deal (ROAS 2.71) were strong and should continue receiving investment.  
