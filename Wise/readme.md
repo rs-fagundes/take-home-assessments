@@ -13,7 +13,7 @@ The role focuses on:
 ## Homework Exercise
 As part of the process, I delivered a case study with two components:
 
-### 1. Payment Operations Performance & Insights Report (MI Pack):contentReference[oaicite:0]{index=0}  
+### 1. Payment Operations Performance & Insights Report (MI Pack)
 - Reviewed six months of data from Global Payments Processing and Regional Payment Operations.  
 - Key insights:  
   - **Wait Time Buckets:** Global Linking consistently outperformed Global DU; DU faced delays in 24h–48h buckets.  
@@ -25,7 +25,7 @@ As part of the process, I delivered a case study with two components:
   - Address inefficiencies in Europe Ops and GBP with targeted workflow improvements.  
   - Scale NorthAm/JPYKRW successes to other regions.  
 
-### 2. SQL Query Task:contentReference[oaicite:1]{index=1}  
+### 2. SQL Query Task
 - Designed a schema with **user_locations**, **transactions**, and **currency_rates** tables.  
 - Wrote a query to calculate the top 5 countries by cross-currency transaction volume in GBP equivalent for 2020.  
 - Query includes filtering for cross-currency transactions, year selection, and aggregation with conversion rates.  
