@@ -1,0 +1,6 @@
+# Ignorar todas as chaves JSON
+*.json
+
+# Ou, se quiser ser mais específico
+keys/
+keys/*.json
